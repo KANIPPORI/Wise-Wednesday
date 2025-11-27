@@ -1,4 +1,4 @@
-# Our YouTube Channel Gallery [Wise Wednesday Series]
+# Our YouTube Channel [Wise Wednesday Series]
 001-Windows Event Viewer - Cyber Security Analysis
 [![Live Stream](https://img.youtube.com/vi/L21YCzgGtkE/0.jpg)](https://www.youtube.com/live/L21YCzgGtkE) <br>
 002-Wise Wednesday - Windows Task Manager & CMD
